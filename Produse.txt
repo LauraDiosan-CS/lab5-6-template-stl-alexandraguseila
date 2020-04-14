@@ -1,0 +1,8 @@
+1 Mars 6
+2 Coca-Cola 5
+3 Haribo 9
+4 KinderBueno 4
+5 Milka 8
+6 Apa_plata 2
+7 Twix 4
+8 Pepsi 6

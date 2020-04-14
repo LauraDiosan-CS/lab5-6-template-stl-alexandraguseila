@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1586880493 source:d:\info\c++\poo\laborator\lab 6-7\laborator_6-7_template_stl\main.cpp
+	<iostream>
+	"Tests.h"
+	"UI.h"
+	"Monede.h"
+
+1586439705 source:d:\info\c++\poo\laborator\lab 6-7\laborator_6-7_template_stl\product.cpp
+	"Product.h"
+	<string.h>
+	<stdio.h>
+
+1586439705 d:\info\c++\poo\laborator\lab 6-7\laborator_6-7_template_stl\product.h
+	<iostream>
+	<ostream>
+
+1586450111 source:d:\info\c++\poo\laborator\lab 6-7\laborator_6-7_template_stl\repostl.cpp
+
+1586452282 source:d:\info\c++\poo\laborator\lab 6-7\laborator_6-7_template_stl\repotemplate.cpp
+
+1586871599 source:d:\info\c++\poo\laborator\lab 6-7\laborator_6-7_template_stl\service.cpp
+	"Service.h"
+
+1586860581 d:\info\c++\poo\laborator\lab 6-7\laborator_6-7_template_stl\service.h
+	"RepoSTL.h"
+	"Product.h"
+	"Monede.h"
+	<vector>
+	<map>
+
+1586880493 d:\info\c++\poo\laborator\lab 6-7\laborator_6-7_template_stl\repostl.h
+	"RepoTemplate.h"
+	<fstream>
+	<iostream>
+	<cstddef>
+	<string.h>
+
+1586452282 d:\info\c++\poo\laborator\lab 6-7\laborator_6-7_template_stl\repotemplate.h
+	<vector>
+	<algorithm>
+
+1586871177 source:d:\info\c++\poo\laborator\lab 6-7\laborator_6-7_template_stl\tests.cpp
+	"Tests.h"
+	"Monede.h"
+	<assert.h>
+	<string.h>
+
+1586869795 d:\info\c++\poo\laborator\lab 6-7\laborator_6-7_template_stl\tests.h
+	"Product.h"
+	"Monede.h"
+	"RepoTemplate.h"
+	"RepoSTL.h"
+	"Service.h"
+
+1586440343 d:\info\c++\poo\laborator\lab 6-7\laborator_6-7_template_stl\service.cpp
+	"Service.h"
+
+1586864231 source:d:\info\c++\poo\laborator\lab 6-7\laborator_6-7_template_stl\ui.cpp
+	"UI.h"
+
+1586862773 d:\info\c++\poo\laborator\lab 6-7\laborator_6-7_template_stl\ui.h
+	"Service.h"
+
+1586872613 source:d:\info\c++\poo\laborator\lab 6-7\laborator_6-7_template_stl\monede.cpp
+	"Monede.h"
+	<string.h>
+	<stdio.h>
+
+1586453299 d:\info\c++\poo\laborator\lab 6-7\laborator_6-7_template_stl\monede.h
+	<iostream>
+	<ostream>
+
